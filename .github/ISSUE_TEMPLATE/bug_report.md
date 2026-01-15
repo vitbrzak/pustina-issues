@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
+about: Vytvořte hlášení o chybě
+title: "[BUG]"
 labels: bug
-assignees: ''
+assignees: vitbrzak
 
 ---
 
