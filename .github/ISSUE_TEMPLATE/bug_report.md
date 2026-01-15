@@ -1,23 +1,23 @@
 ---
 name: Bug report
-about: Vytvořte hlášení o chybě
+about: Vytvořit hlášení o chybě
 title: "[BUG]"
 labels: bug
 assignees: vitbrzak
 
 ---
 
-**Popište chybu**
+**Popiš chybu**
 Jasný a stručný popis chyby.
 
 
 **Jak chybu reprodukovat**
-Kroky k reprodukci chování:
+Kroky k reprodukci chování, pokud víš jak se to stalo:
 
 
 **Očekávané chování**
-Jasný a stručný popis toho, co jste očekávali, že se stane.
+Jasný a stručný popis toho, co jsi očekával, že se stane.
 
 
 **Screenshoty**
-Pokud je to možné, přidejte screenshoty, které pomohou vysvětlit váš problém.
+Pokud je to možné, přidej screenshoty, které pomohou vysvětlit tvůj problém.
